@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button {
+    @apply text-green-500 bg-white border-green-500 border-2 px-5 py-2
+}
+
+body {
+    @apply bg-gray-200
+}
